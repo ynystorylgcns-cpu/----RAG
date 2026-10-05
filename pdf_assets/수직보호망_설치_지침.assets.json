@@ -1,0 +1,110 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "수직보호망 설치 지침.pdf",
+  "relative_path": "기술지원규정가이드/수직보호망 설치 지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "810f3d570c402bc3dcadc329fe810a0e5ab6676bc46d9d1e29b72b10b9408b40",
+  "image_count": 4,
+  "images": [
+    {
+      "source_pdf": "수직보호망 설치 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 4,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\수직보호망_설치_지침\\p0004_fig001.png",
+      "caption": "<그림1> 강관비계에설치하는경우(예시)",
+      "ocr_text": "비거기둥간격\n벽이음\n따장간격\n1.5m\n수직보호양",
+      "vision_description": "",
+      "bbox": [
+        134.08,
+        315.52,
+        461.12,
+        577.04
+      ],
+      "width": 655,
+      "height": 524,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.7113655709725722,
+      "vision_error": null,
+      "search_text": "Caption: <그림1> 강관비계에설치하는경우(예시)\n\nOCR:\n비거기둥간격\n벽이음\n따장간격\n1.5m\n수직보호양"
+    },
+    {
+      "source_pdf": "수직보호망 설치 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 5,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\수직보호망_설치_지침\\p0005_fig001.png",
+      "caption": "<그림2> 강관틀비계에설치하는경우(예시)",
+      "ocr_text": "수평지지대\n수평지지대\n벽이음\n수평지지다\n벽이음\n수평지지대\n수직보호망\n수직보호망",
+      "vision_description": "",
+      "bbox": [
+        111.28,
+        99.76,
+        483.68,
+        363.92
+      ],
+      "width": 746,
+      "height": 529,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.8600605639305037,
+      "vision_error": null,
+      "search_text": "Caption: <그림2> 강관틀비계에설치하는경우(예시)\n\nOCR:\n수평지지대\n수평지지대\n벽이음\n수평지지다\n벽이음\n수평지지대\n수직보호망\n수직보호망"
+    },
+    {
+      "source_pdf": "수직보호망 설치 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 5,
+      "asset_type": "image",
+      "image_index": 2,
+      "image_path": "pdf_images\\수직보호망_설치_지침\\p0005_fig002.png",
+      "caption": "－ － 3",
+      "ocr_text": "튀어나온 골조\n수평지지대\n수평지지대\n수직보호망\n수직지지대\n수평지지대\n수직보호망",
+      "vision_description": "",
+      "bbox": [
+        110.8,
+        435.04,
+        484.88,
+        719.6
+      ],
+      "width": 749,
+      "height": 570,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.9893458732997116,
+      "vision_error": null,
+      "search_text": "Caption: － － 3\n\nOCR:\n튀어나온 골조\n수평지지대\n수평지지대\n수직보호망\n수직지지대\n수평지지대\n수직보호망"
+    },
+    {
+      "source_pdf": "수직보호망 설치 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 6,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\수직보호망_설치_지침\\p0006_fig001.png",
+      "caption": "(5) 수직보호망이설치된장소주변에서용단, 용접등의작업이예상되는경우",
+      "ocr_text": "수직지지대\n스평지지대\n작업발판\n수직보호밑",
+      "vision_description": "",
+      "bbox": [
+        114.4,
+        157.36,
+        481.04,
+        406.16
+      ],
+      "width": 735,
+      "height": 499,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.8023282803021047,
+      "vision_error": null,
+      "search_text": "Caption: (5) 수직보호망이설치된장소주변에서용단, 용접등의작업이예상되는경우\n\nOCR:\n수직지지대\n스평지지대\n작업발판\n수직보호밑"
+    }
+  ]
+}

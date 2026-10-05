@@ -1,0 +1,85 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "시트(Sheet)방수 안전보건작업 지침.pdf",
+  "relative_path": "기술지원규정가이드/시트(Sheet)방수 안전보건작업 지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "d21d943fd1b01388c3a1b7d154466b775114866805d084b41b5ce61158637eab",
+  "image_count": 3,
+  "images": [
+    {
+      "source_pdf": "시트(Sheet)방수 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 4,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\시트_Sheet_방수_안전보건작업_지침\\p0004_fig001.png",
+      "caption": "(2) 가설전선은 가급적 켑타이어 케이블을 사용하고 노후․손상된 전선은",
+      "ocr_text": "",
+      "vision_description": "이 이미지는 등기구(조명 장치)와 전원을 연결하기 위한 지지대 시스템의 구조 및 조립 방법을 설명하는 도면입니다. 주요 시각적 요소와 텍스트는 다음과 같습니다.\n\n*   **중앙:** 삼각대 형태의 주 지지대 (tripod stand).\n*   **왼쪽 상부:** 반사경이 달린 `등기구` 및 강화 장치.\n*   **오른쪽 상부:** `케이블 지지용 브리켓`(cable support bracket) 및 케이블 배선 경로.\n*   **오른쪽 중간:** `등기구 성형기 및 고정용 브리켓`(fixture fixing bracket).\n*   **왼쪽 하단:** 전원 공급을 위한 `전원콘센트`와 `플러그` 연결 방식.\n\n이 도면은 각 부속품(브리켓, 케이블 등)이 지지대에 어떻게 부착되고 배선이 이루어지는지를 단계별로 보여줍니다.",
+      "bbox": [
+        193.6,
+        467.68,
+        401.6,
+        655.52
+      ],
+      "width": 417,
+      "height": 377,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.151261998099291,
+      "vision_error": null,
+      "search_text": "Caption: (2) 가설전선은 가급적 켑타이어 케이블을 사용하고 노후․손상된 전선은\n\nDescription: 이 이미지는 등기구(조명 장치)와 전원을 연결하기 위한 지지대 시스템의 구조 및 조립 방법을 설명하는 도면입니다. 주요 시각적 요소와 텍스트는 다음과 같습니다.\n\n*   **중앙:** 삼각대 형태의 주 지지대 (tripod stand).\n*   **왼쪽 상부:** 반사경이 달린 `등기구` 및 강화 장치.\n*   **오른쪽 상부:** `케이블 지지용 브리켓`(cable support bracket) 및 케이블 배선 경로.\n*   **오른쪽 중간:** `등기구 성형기 및 고정용 브리켓`(fixture fixing bracket).\n*   **왼쪽 하단:** 전원 공급을 위한 `전원콘센트`와 `플러그` 연결 방식.\n\n이 도면은 각 부속품(브리켓, 케이블 등)이 지지대에 어떻게 부착되고 배선이 이루어지는지를 단계별로 보여줍니다."
+    },
+    {
+      "source_pdf": "시트(Sheet)방수 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 6,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\시트_Sheet_방수_안전보건작업_지침\\p0006_fig001.png",
+      "caption": "- 4 -",
+      "ocr_text": "",
+      "vision_description": "흰색 안전모를 쓴 두 명의 작업자가 어두운 실내에서 대형 장비나 선반 앞에 모여 작업을 수행하는 모습입니다.",
+      "bbox": [
+        134.56,
+        637.36,
+        284.96,
+        774.56
+      ],
+      "width": 301,
+      "height": 276,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: - 4 -\n\nDescription: 흰색 안전모를 쓴 두 명의 작업자가 어두운 실내에서 대형 장비나 선반 앞에 모여 작업을 수행하는 모습입니다."
+    },
+    {
+      "source_pdf": "시트(Sheet)방수 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 6,
+      "asset_type": "image",
+      "image_index": 2,
+      "image_path": "pdf_images\\시트_Sheet_방수_안전보건작업_지침\\p0006_fig002.png",
+      "caption": "- 4 -",
+      "ocr_text": "",
+      "vision_description": "흰색 안전모를 쓴 작업자가 무릎을 꿇고 바닥면에 용접 토치 또는 가스 절단기를 사용하여 작업을 하고 있습니다. 손에는 호스가 연결된 장비가 들려 있고, 어두운 바닥 표면에는 노란색 글자와 문양이 보입니다.",
+      "bbox": [
+        304.48,
+        637.36,
+        460.88,
+        774.56
+      ],
+      "width": 314,
+      "height": 276,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: - 4 -\n\nDescription: 흰색 안전모를 쓴 작업자가 무릎을 꿇고 바닥면에 용접 토치 또는 가스 절단기를 사용하여 작업을 하고 있습니다. 손에는 호스가 연결된 장비가 들려 있고, 어두운 바닥 표면에는 노란색 글자와 문양이 보입니다."
+    }
+  ]
+}

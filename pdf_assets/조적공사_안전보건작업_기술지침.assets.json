@@ -1,0 +1,110 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "조적공사 안전보건작업 기술지침.pdf",
+  "relative_path": "기술지원규정가이드/조적공사 안전보건작업 기술지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "c3f3d8af65f23df7111d505b940bdcf54af3053eb722ee2cf2eba3fd3f6d7d7a",
+  "image_count": 4,
+  "images": [
+    {
+      "source_pdf": "조적공사 안전보건작업 기술지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 5,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\조적공사_안전보건작업_기술지침\\p0005_fig001.png",
+      "caption": "- 3 -",
+      "ocr_text": "",
+      "vision_description": "The image displays two line drawings comparing body postures while picking up a bucket from the ground.\n\n*   **Left Figure (<Photo 1>):** Shows a person bent over at the waist with a rounded back, reaching into a bucket. The spine is highlighted showing a forward curve. The caption reads \"<사진 1> 허벅지 굽히기\" (Thigh bending).\n*   **Right Figure (<Photo 2>):** Shows a person squatting with knees bent to hold a bucket. The spine remains straighter with natural curvature maintained. The caption reads \"<사진 2> 무릎 굽히기\" (Knee bending).",
+      "bbox": [
+        14.8,
+        621.28,
+        595.2,
+        740.0
+      ],
+      "width": 1162,
+      "height": 238,
+      "mime_type": "image/png",
+      "merged_source_image_count": 2,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: - 3 -\n\nDescription: The image displays two line drawings comparing body postures while picking up a bucket from the ground.\n\n*   **Left Figure (<Photo 1>):** Shows a person bent over at the waist with a rounded back, reaching into a bucket. The spine is highlighted showing a forward curve. The caption reads \"<사진 1> 허벅지 굽히기\" (Thigh bending).\n*   **Right Figure (<Photo 2>):** Shows a person squatting with knees bent to hold a bucket. The spine remains straighter with natural curvature maintained. The caption reads \"<사진 2> 무릎 굽히기\" (Knee bending)."
+    },
+    {
+      "source_pdf": "조적공사 안전보건작업 기술지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 10,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\조적공사_안전보건작업_기술지침\\p0010_fig001.png",
+      "caption": "(7) 조적벽체에<그림2>와같이테두리보를설치할때에는철골또는철근․콘크리트",
+      "ocr_text": "",
+      "vision_description": "",
+      "bbox": [
+        218.08,
+        504.64,
+        377.36,
+        668.0
+      ],
+      "width": 319,
+      "height": 327,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.17517389767557076,
+      "vision_error": null,
+      "search_text": "Caption: (7) 조적벽체에<그림2>와같이테두리보를설치할때에는철골또는철근․콘크리트"
+    },
+    {
+      "source_pdf": "조적공사 안전보건작업 기술지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 11,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\조적공사_안전보건작업_기술지침\\p0011_fig001.png",
+      "caption": "(8) 조적벽체의출입문, 창문, 설비배관주위의충전재로우레탄폼을사용할때에는",
+      "ocr_text": "",
+      "vision_description": "",
+      "bbox": [
+        218.32,
+        150.88,
+        376.88,
+        326.0
+      ],
+      "width": 318,
+      "height": 351,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: (8) 조적벽체의출입문, 창문, 설비배관주위의충전재로우레탄폼을사용할때에는"
+    },
+    {
+      "source_pdf": "조적공사 안전보건작업 기술지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 13,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\조적공사_안전보건작업_기술지침\\p0013_fig001.png",
+      "caption": "(6) 보강벽돌쌓기작업에서종철근은기초콘크리트타설전에내진설계로배근하고,",
+      "ocr_text": "아치축선\n가설형들\n거꾸집 동바리",
+      "vision_description": "",
+      "bbox": [
+        65.68,
+        132.88,
+        525.44,
+        298.16
+      ],
+      "width": 920,
+      "height": 332,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.7910495459654272,
+      "vision_error": null,
+      "search_text": "Caption: (6) 보강벽돌쌓기작업에서종철근은기초콘크리트타설전에내진설계로배근하고,\n\nOCR:\n아치축선\n가설형들\n거꾸집 동바리"
+    }
+  ]
+}

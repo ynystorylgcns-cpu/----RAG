@@ -1,0 +1,1110 @@
+{
+  "schemaVersion": 1,
+  "appVersion": "v4.155",
+  "requestId": "ff1a23fd-a2e7-474f-9d87-0fa0880a5415",
+  "requestedAt": "2026-10-05T12:32:50.421Z",
+  "title": "건설사고-재발방지대책-RAG",
+  "input": {
+    "files": [
+      {
+        "index": 1,
+        "filename": "국토안전관리원_건설안전사고사례.csv",
+        "relativePath": "국토안전관리원_건설안전사고사례.csv",
+        "size": 36318137,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_1",
+        "collectionCode": "PRIMARY",
+        "duplicatePolicy": "skip_same"
+      },
+      {
+        "index": 2,
+        "filename": "PCT거더 교량공사 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/PCT거더 교량공사 안전보건작업지침.pdf",
+        "size": 621874,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 3,
+        "filename": "가공송전선로 철탑 심형기초공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/가공송전선로 철탑 심형기초공사 안전보건작업 지침.pdf",
+        "size": 190845,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 4,
+        "filename": "가설계단 설치 및 사용 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/가설계단 설치 및 사용 안전보건작업 지침.pdf",
+        "size": 376416,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 5,
+        "filename": "가설구조물의 설계변경 요청 내용, 절차 등에 관한 작성지침.pdf",
+        "relativePath": "기술지원규정가이드/가설구조물의 설계변경 요청 내용, 절차 등에 관한 작성지침.pdf",
+        "size": 145442,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 6,
+        "filename": "강박스거더 교량공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/강박스거더 교량공사 안전보건작업 지침.pdf",
+        "size": 1065060,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 7,
+        "filename": "강아치교(벤트공법) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/강아치교(벤트공법) 안전보건작업지침.pdf",
+        "size": 1439448,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 8,
+        "filename": "거푸집 및 동바리 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/거푸집 및 동바리 안전작업에 관한 기술지원규정.pdf",
+        "size": 757424,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 9,
+        "filename": "건설공사 돌관작업 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/건설공사 돌관작업 안전보건작업 지침.pdf",
+        "size": 107183,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 10,
+        "filename": "건설공사 안전보건 설계 지침.pdf",
+        "relativePath": "기술지원규정가이드/건설공사 안전보건 설계 지침.pdf",
+        "size": 174165,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 11,
+        "filename": "건설공사의 고소작업대 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/건설공사의 고소작업대 안전보건작업지침.pdf",
+        "size": 946971,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 12,
+        "filename": "건설기계 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/건설기계 안전보건작업 지침.pdf",
+        "size": 506053,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 13,
+        "filename": "건설장비(이동식크레인, 항타기 및 항발기, 타워크레인) 작업계획서 작성에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/건설장비(이동식크레인, 항타기 및 항발기, 타워크레인) 작업계획서 작성에 관한 기술지원규정.pdf",
+        "size": 2365433,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 14,
+        "filename": "건설현장 용접용단 안전보건작업 기술지침.pdf",
+        "relativePath": "기술지원규정가이드/건설현장 용접용단 안전보건작업 기술지침.pdf",
+        "size": 199903,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 15,
+        "filename": "건축물의 석공사(내외장) 안전보건작업 기술지침.pdf",
+        "relativePath": "기술지원규정가이드/건축물의 석공사(내외장) 안전보건작업 기술지침.pdf",
+        "size": 364894,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 16,
+        "filename": "경량철골 천장공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/경량철골 천장공사 안전보건작업 지침.pdf",
+        "size": 1380677,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 17,
+        "filename": "곤돌라(Gondola) 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/곤돌라(Gondola) 안전보건작업 지침.pdf",
+        "size": 203078,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 18,
+        "filename": "교량 상부공 가설공법의 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/교량 상부공 가설공법의 안전작업에 관한 기술지원규정.pdf",
+        "size": 2271334,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 19,
+        "filename": "교량 슬래브거푸집 해체용 작업대차 안전작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/교량 슬래브거푸집 해체용 작업대차 안전작업 지침.pdf",
+        "size": 138016,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 20,
+        "filename": "교량공사(라멘교) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/교량공사(라멘교) 안전보건작업지침.pdf",
+        "size": 696064,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 21,
+        "filename": "굴착 및 토공 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/굴착 및 토공 안전작업에 관한 기술지원규정.pdf",
+        "size": 991466,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 22,
+        "filename": "굴착공사 계측관리 기술지침.pdf",
+        "relativePath": "기술지원규정가이드/굴착공사 계측관리 기술지침.pdf",
+        "size": 3253549,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 23,
+        "filename": "굴착기 안전보건작업 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/굴착기 안전보건작업 기술지원규정.pdf",
+        "size": 1701260,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 24,
+        "filename": "굴착면 안전기울기 기준에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/굴착면 안전기울기 기준에 관한 기술지원규정.pdf",
+        "size": 684663,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 25,
+        "filename": "굴착작업시 지하 매설물 위험방지를 위한 기술지침.pdf",
+        "relativePath": "기술지원규정가이드/굴착작업시 지하 매설물 위험방지를 위한 기술지침.pdf",
+        "size": 109730,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 26,
+        "filename": "금속 커튼월(Curtain wall) 안전작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/금속 커튼월(Curtain wall) 안전작업 지침.pdf",
+        "size": 187854,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 27,
+        "filename": "기성 콘크리트 파일 항타 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/기성 콘크리트 파일 항타 안전보건작업 지침.pdf",
+        "size": 1945942,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 28,
+        "filename": "낙하물 방지망 설치 지침.pdf",
+        "relativePath": "기술지원규정가이드/낙하물 방지망 설치 지침.pdf",
+        "size": 256209,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 29,
+        "filename": "낙하물 방호선반 설치 지침.pdf",
+        "relativePath": "기술지원규정가이드/낙하물 방호선반 설치 지침.pdf",
+        "size": 172859,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 30,
+        "filename": "내장공사의 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/내장공사의 안전보건작업 지침.pdf",
+        "size": 1590314,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 31,
+        "filename": "냉동냉장 물류창고 단열공사 화재예방 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/냉동냉장 물류창고 단열공사 화재예방 안전보건작업 지침.pdf",
+        "size": 823741,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 32,
+        "filename": "덤프트럭 및 화물자동차 안전작업지침.pdf",
+        "relativePath": "기술지원규정가이드/덤프트럭 및 화물자동차 안전작업지침.pdf",
+        "size": 766513,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 33,
+        "filename": "리모델링 안전보건작업 기술지침.pdf",
+        "relativePath": "기술지원규정가이드/리모델링 안전보건작업 기술지침.pdf",
+        "size": 176472,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 34,
+        "filename": "미장공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/미장공사 안전보건작업 지침.pdf",
+        "size": 467466,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 35,
+        "filename": "밀폐공간의 방수공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/밀폐공간의 방수공사 안전보건작업 지침.pdf",
+        "size": 184005,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 36,
+        "filename": "발파공사 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/발파공사 기술지원규정.pdf",
+        "size": 1638819,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 37,
+        "filename": "블록식 보강토 옹벽 공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/블록식 보강토 옹벽 공사 안전보건작업 지침.pdf",
+        "size": 595240,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 38,
+        "filename": "비계 구조 및 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/비계 구조 및 안전작업에 관한 기술지원규정.pdf",
+        "size": 2802919,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 39,
+        "filename": "사장교 교량공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/사장교 교량공사 안전보건작업 지침.pdf",
+        "size": 548381,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 40,
+        "filename": "수상 바지(Barge)선 이용 건설공사 안전작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/수상 바지(Barge)선 이용 건설공사 안전작업 지침.pdf",
+        "size": 1096497,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 41,
+        "filename": "수직보호망 설치 지침.pdf",
+        "relativePath": "기술지원규정가이드/수직보호망 설치 지침.pdf",
+        "size": 279189,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 42,
+        "filename": "시트(Sheet)방수 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/시트(Sheet)방수 안전보건작업 지침.pdf",
+        "size": 335443,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 43,
+        "filename": "아스팔트콘크리트 포장공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/아스팔트콘크리트 포장공사 안전보건작업 지침.pdf",
+        "size": 101956,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 44,
+        "filename": "안전대 사용지침.pdf",
+        "relativePath": "기술지원규정가이드/안전대 사용지침.pdf",
+        "size": 792514,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 45,
+        "filename": "야간 건설공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/야간 건설공사 안전보건작업 지침.pdf",
+        "size": 103230,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 46,
+        "filename": "엘리베이터 승강로용 고소 가설작업대 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/엘리베이터 승강로용 고소 가설작업대 안전작업에 관한 기술지원규정.pdf",
+        "size": 2039835,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 47,
+        "filename": "옹벽(콘크리트 옹벽)공사의 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/옹벽(콘크리트 옹벽)공사의 안전보건작업지침.pdf",
+        "size": 350279,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 48,
+        "filename": "외벽도장보수공사 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/외벽도장보수공사 안전작업에 관한 기술지원규정.pdf",
+        "size": 775152,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 49,
+        "filename": "우물통기초 안전보건 작업지침.pdf",
+        "relativePath": "기술지원규정가이드/우물통기초 안전보건 작업지침.pdf",
+        "size": 1193539,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 50,
+        "filename": "작업발판 일체형 거푸집(갱폼, 시스템폼, 슬립폼) 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/작업발판 일체형 거푸집(갱폼, 시스템폼, 슬립폼) 안전작업에 관한 기술지원규정.pdf",
+        "size": 1816989,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 51,
+        "filename": "재사용 가설기자재 성능기준에 관한 지침.pdf",
+        "relativePath": "기술지원규정가이드/재사용 가설기자재 성능기준에 관한 지침.pdf",
+        "size": 1499225,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 52,
+        "filename": "조경공사(수목식재작업) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/조경공사(수목식재작업) 안전보건작업지침.pdf",
+        "size": 353198,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 53,
+        "filename": "조립 강주 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/조립 강주 안전작업에 관한 기술지원규정.pdf",
+        "size": 534277,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 54,
+        "filename": "조적공사 안전보건작업 기술지침.pdf",
+        "relativePath": "기술지원규정가이드/조적공사 안전보건작업 기술지침.pdf",
+        "size": 309257,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 55,
+        "filename": "지붕공사 안전보건작업 기술지침.pdf",
+        "relativePath": "기술지원규정가이드/지붕공사 안전보건작업 기술지침.pdf",
+        "size": 3974579,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 56,
+        "filename": "철골공사(데크플레이트 포함)의 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/철골공사(데크플레이트 포함)의 안전작업에 관한 기술지원규정.pdf",
+        "size": 2680729,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 57,
+        "filename": "철탑공사 안전보건기술지침.pdf",
+        "relativePath": "기술지원규정가이드/철탑공사 안전보건기술지침.pdf",
+        "size": 1791871,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 58,
+        "filename": "초고층 건축물공사(일반사항) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/초고층 건축물공사(일반사항) 안전보건작업지침.pdf",
+        "size": 1107552,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 59,
+        "filename": "초고층 건축물공사(화재예방) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/초고층 건축물공사(화재예방) 안전보건작업지침.pdf",
+        "size": 1183721,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 60,
+        "filename": "취약시기 건설현장 안전작업지침.pdf",
+        "relativePath": "기술지원규정가이드/취약시기 건설현장 안전작업지침.pdf",
+        "size": 214020,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 61,
+        "filename": "콘크리트공사(단순 슬래브 포함) 안전작업에 관한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/콘크리트공사(단순 슬래브 포함) 안전작업에 관한 기술지원규정.pdf",
+        "size": 1189191,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 62,
+        "filename": "타일(Tile) 공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/타일(Tile) 공사 안전보건작업 지침.pdf",
+        "size": 418877,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 63,
+        "filename": "탑다운(Top down) 공법 안전작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/탑다운(Top down) 공법 안전작업 지침.pdf",
+        "size": 215541,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 64,
+        "filename": "터널공사(NATM공법) 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/터널공사(NATM공법) 안전보건작업 지침.pdf",
+        "size": 192335,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 65,
+        "filename": "터널공사(NTR공법) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/터널공사(NTR공법) 안전보건작업지침.pdf",
+        "size": 1144818,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 66,
+        "filename": "터널공사(Shield-T.B.M공법) 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/터널공사(Shield-T.B.M공법) 안전보건작업 지침.pdf",
+        "size": 201840,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 67,
+        "filename": "터널공사(침매공법) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/터널공사(침매공법) 안전보건작업지침.pdf",
+        "size": 1182310,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 68,
+        "filename": "터널공사(프론트잭킹) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/터널공사(프론트잭킹) 안전보건작업지침.pdf",
+        "size": 768064,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 69,
+        "filename": "트러스거더 교량공사 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/트러스거더 교량공사 안전보건작업지침.pdf",
+        "size": 626754,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 70,
+        "filename": "트럭 탑재형 크레인(Cago crane) 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/트럭 탑재형 크레인(Cago crane) 안전보건작업지침.pdf",
+        "size": 795535,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 71,
+        "filename": "프리스트레스트 콘크리트(PSC) 교량공사 안전작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/프리스트레스트 콘크리트(PSC) 교량공사 안전작업 지침.pdf",
+        "size": 204458,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 72,
+        "filename": "프리캐스트 콘크리트 건축구조물 조립 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/프리캐스트 콘크리트 건축구조물 조립 안전보건작업 지침.pdf",
+        "size": 335334,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 73,
+        "filename": "해상 RCD 현장타설 말뚝공사(현수교, 사장교) 안전작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/해상 RCD 현장타설 말뚝공사(현수교, 사장교) 안전작업 지침.pdf",
+        "size": 816000,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 74,
+        "filename": "해체공사 안전보건작업 기술지침.pdf",
+        "relativePath": "기술지원규정가이드/해체공사 안전보건작업 기술지침.pdf",
+        "size": 2084223,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 75,
+        "filename": "현수교 교량공사 안전보건작업 지침.pdf",
+        "relativePath": "기술지원규정가이드/현수교 교량공사 안전보건작업 지침.pdf",
+        "size": 1100333,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 76,
+        "filename": "현수교 주탑시공 안전보건작업지침.pdf",
+        "relativePath": "기술지원규정가이드/현수교 주탑시공 안전보건작업지침.pdf",
+        "size": 1313836,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      },
+      {
+        "index": 77,
+        "filename": "흙막이공사에 대한 기술지원규정.pdf",
+        "relativePath": "기술지원규정가이드/흙막이공사에 대한 기술지원규정.pdf",
+        "size": 7830863,
+        "uploadMode": "uploadId",
+        "registrationGroupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      }
+    ],
+    "directText": {
+      "present": false,
+      "length": 0
+    },
+    "userPrompt": "요약해 주세요"
+  },
+  "llm": {
+    "primaryProvider": "ollama",
+    "primaryModel": "qwen3.5:9b",
+    "fallbackEnabled": false,
+    "fallbackProvider": null,
+    "fallbackModel": null
+  },
+  "processing": {
+    "processMode": "auto",
+    "useOcr": true,
+    "ocrConfidence": 0.7,
+    "extractTables": true,
+    "pdfStructureAware": true,
+    "pdfPreservePageInfo": true,
+    "pdfDetectHeadings": true,
+    "pdfParagraphBoundary": true,
+    "pdfKeepTablesStandalone": true,
+    "pdfExtractImages": true,
+    "pdfImageCaption": true,
+    "pdfImageOcr": true,
+    "pdfVisionDescription": true,
+    "piiProtection": false,
+    "systemGuard": false,
+    "blockOnValidationFailure": true,
+    "chunkStrategy": "recursive",
+    "chunkSize": 800,
+    "chunkOverlap": 150,
+    "addStartIndex": true
+  },
+  "chunking": {
+    "strategy": "recursive",
+    "chunkSize": 800,
+    "chunkOverlap": 150,
+    "addStartIndex": true
+  },
+  "embedding": {
+    "provider": "huggingface",
+    "model": "BAAI/bge-m3",
+    "useGpu": true
+  },
+  "retrieval": {
+    "vectorStore": "pgvector",
+    "forceRebuildChromaIndex": false,
+    "forceRebuildPgvectorIndex": false,
+    "structuredEmbeddingColumns": [
+      "공사종류",
+      "공종(대분류)",
+      "공종(소분류)",
+      "사고객체(대분류)",
+      "사고객체(소분류)",
+      "작업프로세스",
+      "사고원인-대분류",
+      "사고원인-중분류",
+      "사고원인-소분류",
+      "구체적사고원인",
+      "향후조치계획",
+      "사고경위",
+      "재발방지대책"
+    ],
+    "useTfidfSearch": false,
+    "useBm25Search": true,
+    "useKeywordSearch": true,
+    "useWhereDocument": true,
+    "useVectorSearch": true,
+    "useMmrSearch": false,
+    "useHybridRerank": true,
+    "topK": 3,
+    "candidateK": 12,
+    "mmrFetchK": 8,
+    "mmrLambda": 0.5,
+    "useCrossEncoderReranker": true,
+    "rerankerModel": "BAAI/bge-reranker-v2-m3",
+    "rerankerCandidateK": 8,
+    "rerankerTopN": 3,
+    "useRerankerGpu": true,
+    "useLongContextReorder": true,
+    "useMultiQuery": false,
+    "useDecomposition": false,
+    "useEmbeddingsFilter": false,
+    "useLlmFilter": false,
+    "usePointwiseRerank": false,
+    "useListwiseRerank": false,
+    "useContextExtractor": false,
+    "summaryMode": "off",
+    "summaryThreshold": 8000,
+    "useReliabilityGuard": true,
+    "useDistanceThreshold": false,
+    "distanceThreshold": 0.9,
+    "useLlmRelevanceCheck": false,
+    "showSources": true,
+    "evaluationSet": "",
+    "autoEvaluationEnabled": true,
+    "autoEvaluationCount": 50,
+    "autoEvaluationSeed": 42,
+    "autoEvaluationExclude": true,
+    "autoEvaluationTemplate": "공사종류 '{{공사종류}}' 공사 중 공종 대분류 '{{공종(대분류)}}', 소분류 '{{공종(소분류)}}' 작업에서 사고객체 '{{사고객체(대분류)}}'(소분류: '{{사고객체(소분류)}}')와 관련된 사고가 발생했습니다. 작업 프로세스는 '{{작업프로세스}}'입니다. 이와 유사한 사고사례와 재발방지대책은 무엇입니까?",
+    "searchEvaluationEnabled": true,
+    "searchEvaluationK": 5,
+    "searchEvaluationGroundTruthMode": "auto",
+    "generationEvaluationEnabled": true,
+    "evaluatorProvider": "ollama",
+    "evaluatorModel": "qwen3.5:9b",
+    "generationWeightRelevance": 1,
+    "generationWeightFactuality": 1,
+    "generationWeightCause": 1,
+    "generationWeightActionability": 1,
+    "generationWeightGroundedness": 1,
+    "generationWeightSpecificity": 1,
+    "generationWeightEvidenceAlignment": 1,
+    "collectionManagement": {
+      "collections": [
+        {
+          "code": "PRIMARY",
+          "name": "기본 데이터",
+          "description": "주 검색 데이터",
+          "isActive": true
+        },
+        {
+          "code": "REFERENCE",
+          "name": "참조 데이터",
+          "description": "별도 검색할 참조 자료",
+          "isActive": true
+        }
+      ],
+      "registrationGroups": [
+        {
+          "groupId": "GROUP_1",
+          "collectionCode": "PRIMARY",
+          "duplicatePolicy": "skip_same"
+        },
+        {
+          "groupId": "GROUP_2",
+          "collectionCode": "REFERENCE",
+          "duplicatePolicy": "update_changed"
+        }
+      ],
+      "sourceCollectionCode": "PRIMARY",
+      "duplicatePolicy": "skip_same",
+      "evaluationSetCode": "eval_v1",
+      "pgvectorEvaluationMarkOnly": true,
+      "evaluationTargets": [
+        {
+          "targetCode": "TARGET_1",
+          "collectionCode": "PRIMARY",
+          "name": "검색 대상 1",
+          "topK": 5,
+          "expectedDocumentIds": [],
+          "expectedChunkIds": []
+        },
+        {
+          "targetCode": "TARGET_2",
+          "collectionCode": "REFERENCE",
+          "name": "검색 대상 2",
+          "topK": 5,
+          "expectedDocumentIds": [],
+          "expectedChunkIds": []
+        }
+      ],
+      "evaluationQuestionTemplates": {
+        "PRIMARY": "공사종류 '{{공사종류}}' 공사 중 공종 대분류 '{{공종(대분류)}}', 소분류 '{{공종(소분류)}}' 작업에서 사고객체 '{{사고객체(대분류)}}'(소분류: '{{사고객체(소분류)}}')와 관련된 사고가 발생했습니다. 작업 프로세스는 '{{작업프로세스}}'입니다. 이와 유사한 사고사례와 재발방지대책은 무엇입니까?",
+        "REFERENCE": "공사종류 '{{공사종류}}' 공사 중 공종 대분류 '{{공종(대분류)}}', 소분류 '{{공종(소분류)}}' 작업에서 사고객체 '{{사고객체(대분류)}}'(소분류: '{{사고객체(소분류)}}')와 관련된 사고가 발생했습니다. 작업 프로세스는 '{{작업프로세스}}'입니다. 이 작업 및 사고 유형과 관련하여 적용할 수 있는 기술 기준, 안전조치, 설치·사용 기준, 작업 절차 및 주의사항은 무엇입니까? 관련 문서의 근거를 바탕으로 답변하고, 가능한 경우 적용 기준이나 수치 조건도 함께 제시해 주세요."
+      },
+      "evaluationSearchPurposes": {},
+      "structuredEmbeddingConfig": {
+        "PRIMARY": {
+          "국토안전관리원_건설안전사고사례.csv": [
+            "공사종류",
+            "공종(대분류)",
+            "공종(소분류)",
+            "사고객체(대분류)",
+            "사고객체(소분류)",
+            "작업프로세스",
+            "사고원인-대분류",
+            "사고원인-중분류",
+            "사고원인-소분류",
+            "구체적사고원인",
+            "향후조치계획",
+            "사고경위",
+            "재발방지대책"
+          ]
+        }
+      },
+      "evaluationSourceCollectionCode": "PRIMARY",
+      "evaluationSourceFilename": "국토안전관리원_건설안전사고사례.csv",
+      "collectionChunkSettings": {
+        "PRIMARY": {
+          "strategy": "recursive",
+          "chunkSize": 800,
+          "chunkOverlap": 150,
+          "structuredOnly": true
+        },
+        "REFERENCE": {
+          "strategy": "recursive",
+          "chunkSize": 1200,
+          "chunkOverlap": 200,
+          "structuredOnly": false
+        }
+      }
+    },
+    "generationScore100": true,
+    "businessEvaluationEnabled": true,
+    "businessScoreEnabled": true,
+    "businessRevisionNotes": true
+  },
+  "collectionManagement": {
+    "collections": [
+      {
+        "code": "PRIMARY",
+        "name": "기본 데이터",
+        "description": "주 검색 데이터",
+        "isActive": true
+      },
+      {
+        "code": "REFERENCE",
+        "name": "참조 데이터",
+        "description": "별도 검색할 참조 자료",
+        "isActive": true
+      }
+    ],
+    "registrationGroups": [
+      {
+        "groupId": "GROUP_1",
+        "collectionCode": "PRIMARY",
+        "duplicatePolicy": "skip_same"
+      },
+      {
+        "groupId": "GROUP_2",
+        "collectionCode": "REFERENCE",
+        "duplicatePolicy": "update_changed"
+      }
+    ],
+    "sourceCollectionCode": "PRIMARY",
+    "duplicatePolicy": "skip_same",
+    "evaluationSetCode": "eval_v1",
+    "pgvectorEvaluationMarkOnly": true,
+    "evaluationTargets": [
+      {
+        "targetCode": "TARGET_1",
+        "collectionCode": "PRIMARY",
+        "name": "검색 대상 1",
+        "topK": 5,
+        "expectedDocumentIds": [],
+        "expectedChunkIds": []
+      },
+      {
+        "targetCode": "TARGET_2",
+        "collectionCode": "REFERENCE",
+        "name": "검색 대상 2",
+        "topK": 5,
+        "expectedDocumentIds": [],
+        "expectedChunkIds": []
+      }
+    ],
+    "evaluationQuestionTemplates": {
+      "PRIMARY": "공사종류 '{{공사종류}}' 공사 중 공종 대분류 '{{공종(대분류)}}', 소분류 '{{공종(소분류)}}' 작업에서 사고객체 '{{사고객체(대분류)}}'(소분류: '{{사고객체(소분류)}}')와 관련된 사고가 발생했습니다. 작업 프로세스는 '{{작업프로세스}}'입니다. 이와 유사한 사고사례와 재발방지대책은 무엇입니까?",
+      "REFERENCE": "공사종류 '{{공사종류}}' 공사 중 공종 대분류 '{{공종(대분류)}}', 소분류 '{{공종(소분류)}}' 작업에서 사고객체 '{{사고객체(대분류)}}'(소분류: '{{사고객체(소분류)}}')와 관련된 사고가 발생했습니다. 작업 프로세스는 '{{작업프로세스}}'입니다. 이 작업 및 사고 유형과 관련하여 적용할 수 있는 기술 기준, 안전조치, 설치·사용 기준, 작업 절차 및 주의사항은 무엇입니까? 관련 문서의 근거를 바탕으로 답변하고, 가능한 경우 적용 기준이나 수치 조건도 함께 제시해 주세요."
+    },
+    "evaluationSearchPurposes": {},
+    "structuredEmbeddingConfig": {
+      "PRIMARY": {
+        "국토안전관리원_건설안전사고사례.csv": [
+          "공사종류",
+          "공종(대분류)",
+          "공종(소분류)",
+          "사고객체(대분류)",
+          "사고객체(소분류)",
+          "작업프로세스",
+          "사고원인-대분류",
+          "사고원인-중분류",
+          "사고원인-소분류",
+          "구체적사고원인",
+          "향후조치계획",
+          "사고경위",
+          "재발방지대책"
+        ]
+      }
+    },
+    "evaluationSourceCollectionCode": "PRIMARY",
+    "evaluationSourceFilename": "국토안전관리원_건설안전사고사례.csv",
+    "collectionChunkSettings": {
+      "PRIMARY": {
+        "strategy": "recursive",
+        "chunkSize": 800,
+        "chunkOverlap": 150,
+        "structuredOnly": true
+      },
+      "REFERENCE": {
+        "strategy": "recursive",
+        "chunkSize": 1200,
+        "chunkOverlap": 200,
+        "structuredOnly": false
+      }
+    }
+  },
+  "databaseLabs": {
+    "postgresql": true,
+    "pgvector": true,
+    "redis": false,
+    "firestore": false
+  },
+  "streamlit": {
+    "enabled": true,
+    "appType": "chat",
+    "conversationHistory": true,
+    "showSources": true,
+    "showMetadata": true,
+    "showTiming": true
+  },
+  "secrets": {
+    "OPENAI_API_KEY": "NOT_LOGGED",
+    "databasePasswords": "NOT_LOGGED",
+    "redisPassword": "NOT_LOGGED"
+  },
+  "result": {
+    "status": "SUCCESS",
+    "notebook": "건설사고-재발방지대책-RAG.ipynb",
+    "sourceCount": 77,
+    "sourceKinds": [
+      "CSV",
+      "PDF"
+    ],
+    "cells": 45,
+    "elapsedSeconds": 0.41
+  }
+}

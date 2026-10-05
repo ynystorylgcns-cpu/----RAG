@@ -1,0 +1,60 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "건축물의 석공사(내외장) 안전보건작업 기술지침.pdf",
+  "relative_path": "기술지원규정가이드/건축물의 석공사(내외장) 안전보건작업 기술지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "064f5f235d1ed92d939140fc04bddd1c43d3cbeab47297e22a6c7b8b1fa98f35",
+  "image_count": 2,
+  "images": [
+    {
+      "source_pdf": "건축물의 석공사(내외장) 안전보건작업 기술지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 3,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\건축물의_석공사_내외장_안전보건작업_기술지침\\p0003_fig001.png",
+      "caption": "- 3 -",
+      "ocr_text": "꽃임쪽\n(가로)\n(세로)\n25 석가\n시데트모르다르",
+      "vision_description": "상단: 벽체 단면에 Φ10 철근(연결철물), Φ5 SST 꽃잉축, 가로/세로 Φ10 철근이 배치되어 있고 높이 4m를 나타냄. 하단: Φ4 SST 연결철물, THK.25 석재 (양측), 시멘트 모르타르가 포함된 상세 도면.",
+      "bbox": [
+        174.64,
+        528.16,
+        381.2,
+        717.2
+      ],
+      "width": 414,
+      "height": 379,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.5498662097479995,
+      "vision_error": null,
+      "search_text": "Caption: - 3 -\n\nOCR:\n꽃임쪽\n(가로)\n(세로)\n25 석가\n시데트모르다르\n\nDescription: 상단: 벽체 단면에 Φ10 철근(연결철물), Φ5 SST 꽃잉축, 가로/세로 Φ10 철근이 배치되어 있고 높이 4m를 나타냄. 하단: Φ4 SST 연결철물, THK.25 석재 (양측), 시멘트 모르타르가 포함된 상세 도면."
+    },
+    {
+      "source_pdf": "건축물의 석공사(내외장) 안전보건작업 기술지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 4,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\건축물의_석공사_내외장_안전보건작업_기술지침\\p0004_fig001.png",
+      "caption": "<그림2> 건식공법(예)",
+      "ocr_text": "꽃임쪽\nTHK\nTHK\n12 SST\nTHK\nSST\n8 SST.\n석가",
+      "vision_description": "",
+      "bbox": [
+        122.8,
+        209.92,
+        472.16,
+        415.52
+      ],
+      "width": 700,
+      "height": 413,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.5117686225704705,
+      "vision_error": null,
+      "search_text": "Caption: <그림2> 건식공법(예)\n\nOCR:\n꽃임쪽\nTHK\nTHK\n12 SST\nTHK\nSST\n8 SST.\n석가"
+    }
+  ]
+}

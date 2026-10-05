@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "낙하물 방호선반 설치 지침.pdf",
+  "relative_path": "기술지원규정가이드/낙하물 방호선반 설치 지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "f1d0b7fbb1ca0c90879e40799e5d63c3887692dec24237ab1da4ca216f5cbd45",
+  "image_count": 1,
+  "images": [
+    {
+      "source_pdf": "낙하물 방호선반 설치 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 5,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\낙하물_방호선반_설치_지침\\p0005_fig001.png",
+      "caption": "<그림1> 방호선반의구조",
+      "ocr_text": "강관 비계\n바닥판",
+      "vision_description": "이 이미지는 **강관 비계**(Steel Pipe Scaffolding) 구조를 보여주는 기술 도면입니다. 도면에는 다음과 같은 주요 구성 요소와 부품들이 라벨링되어 있습니다:\n\n*   **브래킷**: 상부 수평 강관과 연결되는 작은 금속 부품.\n*   **보개**: 상부 브래킷 부근의 지지 장치.\n*   **가새**: 구조물의 안정성을 위한 대각선으로 달린 보조 지지대.\n*   **판/바닥판**: 작업자 서는 바닥면으로 사용되는 판재들 (플랜크).\n*   **강관 비계**: 전체적인 철제 골조 구조물.\n\n도표는 비계가 수직 기둥, 상하부의 수평 강관, 그리고 바닥판으로 어떻게 조립되는지를 보여줍니다.",
+      "bbox": [
+        138.88,
+        137.68,
+        456.56,
+        398.96
+      ],
+      "width": 637,
+      "height": 523,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.9904040323248333,
+      "vision_error": null,
+      "search_text": "Caption: <그림1> 방호선반의구조\n\nOCR:\n강관 비계\n바닥판\n\nDescription: 이 이미지는 **강관 비계**(Steel Pipe Scaffolding) 구조를 보여주는 기술 도면입니다. 도면에는 다음과 같은 주요 구성 요소와 부품들이 라벨링되어 있습니다:\n\n*   **브래킷**: 상부 수평 강관과 연결되는 작은 금속 부품.\n*   **보개**: 상부 브래킷 부근의 지지 장치.\n*   **가새**: 구조물의 안정성을 위한 대각선으로 달린 보조 지지대.\n*   **판/바닥판**: 작업자 서는 바닥면으로 사용되는 판재들 (플랜크).\n*   **강관 비계**: 전체적인 철제 골조 구조물.\n\n도표는 비계가 수직 기둥, 상하부의 수평 강관, 그리고 바닥판으로 어떻게 조립되는지를 보여줍니다."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+# 환경변수 / 비밀정보
+.env
+.env.*
+!.env.example
+
+# Python 가상환경
+.venv/
+venv/
+env/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 로그
+logs/
+*.log
+
+# 로컬 데이터
+data/
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 임시파일
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# 테스트/커버리지
+.coverage
+htmlcov/
+coverage/
+
+# Python 패키징
+*.egg-info/
+.eggs/
+
+# 로컬 DB
+*.db
+*.sqlite
+*.sqlite3
+
+# 캐시/생성물
+.cache/
+tmp/
+temp/
+chroma_rag_source_index/
+
+��������������̵�.zip

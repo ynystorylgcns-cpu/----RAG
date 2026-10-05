@@ -1,0 +1,110 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "건설기계 안전보건작업 지침.pdf",
+  "relative_path": "기술지원규정가이드/건설기계 안전보건작업 지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "d09acfef0bfddf102b979b6cfe06ca2445498a2a41016c4f04ee33b92559aa67",
+  "image_count": 4,
+  "images": [
+    {
+      "source_pdf": "건설기계 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 26,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\건설기계_안전보건작업_지침\\p0026_fig001.png",
+      "caption": "(1) 크레인의운전신호는작업장의책임자가지명한자이외에는하여서는아니된다.",
+      "ocr_text": "",
+      "vision_description": "이 이미지는 5 가지 수술용 클립 고정 방법 (surgical clip fixation methods) 에 대한 목록을 보여줍니다. 각 항목은 왼쪽에 번호와 한글 이름, 가운데에 해당 기구의 그림, 오른쪽에 성공률 퍼센트 (%) 가 나열되어 있습니다. 구체적인 내용은 다음과 같습니다:\n(1) 클립고정법 - 80%\n(2) 합금고정법 - 100%\n(3) 파워록 (압축고정) 법 - 100%\n(4) 돼지고정법 - 80~90%\n(5) 스프라이스법 - 75~85%",
+      "bbox": [
+        193.6,
+        422.32,
+        415.76,
+        561.68
+      ],
+      "width": 445,
+      "height": 280,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.3988866624777183,
+      "vision_error": null,
+      "search_text": "Caption: (1) 크레인의운전신호는작업장의책임자가지명한자이외에는하여서는아니된다.\n\nDescription: 이 이미지는 5 가지 수술용 클립 고정 방법 (surgical clip fixation methods) 에 대한 목록을 보여줍니다. 각 항목은 왼쪽에 번호와 한글 이름, 가운데에 해당 기구의 그림, 오른쪽에 성공률 퍼센트 (%) 가 나열되어 있습니다. 구체적인 내용은 다음과 같습니다:\n(1) 클립고정법 - 80%\n(2) 합금고정법 - 100%\n(3) 파워록 (압축고정) 법 - 100%\n(4) 돼지고정법 - 80~90%\n(5) 스프라이스법 - 75~85%"
+    },
+    {
+      "source_pdf": "건설기계 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 40,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\건설기계_안전보건작업_지침\\p0040_fig001.png",
+      "caption": "<붙임2> KS B ISO 12480-1 부속서C",
+      "ocr_text": "KS B ISO 12480-11997\n부속서 C\n(규정)\nC1\n일반사항\n다음의\nC.2\n크레인 장비",
+      "vision_description": "",
+      "bbox": [
+        48.64,
+        151.12,
+        476.0,
+        782.24
+      ],
+      "width": 855,
+      "height": 1263,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.4739977631126578,
+      "vision_error": null,
+      "search_text": "Caption: <붙임2> KS B ISO 12480-1 부속서C\n\nOCR:\nKS B ISO 12480-11997\n부속서 C\n(규정)\nC1\n일반사항\n다음의\nC.2\n크레인 장비"
+    },
+    {
+      "source_pdf": "건설기계 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 41,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\건설기계_안전보건작업_지침\\p0041_fig001.png",
+      "caption": "KOSHA GUIDE",
+      "ocr_text": "C.3\n특수 절차\n다.\n1)",
+      "vision_description": "문서 KS B ISO 12480-1:1997의 'C.3 특수 절차' 섹션 이미지입니다. 크레인 등을 이용해 사람을 올리고 내릴 때 적용해야 할 안전 조치와 절차가 나열되어 있습니다. 내용에는 작업 전 점검, 인양 및 방첨 관리, 플랫폼 이동 속도 제한 (30m/min), 안전장구 착용, 통신 유지 등 항목 a)~q)까지 상세히 기록되어 있습니다.",
+      "bbox": [
+        48.64,
+        111.04,
+        505.28,
+        785.12
+      ],
+      "width": 914,
+      "height": 1349,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.3148552261742771,
+      "vision_error": null,
+      "search_text": "Caption: KOSHA GUIDE\n\nOCR:\nC.3\n특수 절차\n다.\n1)\n\nDescription: 문서 KS B ISO 12480-1:1997의 'C.3 특수 절차' 섹션 이미지입니다. 크레인 등을 이용해 사람을 올리고 내릴 때 적용해야 할 안전 조치와 절차가 나열되어 있습니다. 내용에는 작업 전 점검, 인양 및 방첨 관리, 플랫폼 이동 속도 제한 (30m/min), 안전장구 착용, 통신 유지 등 항목 a)~q)까지 상세히 기록되어 있습니다."
+    },
+    {
+      "source_pdf": "건설기계 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 42,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\건설기계_안전보건작업_지침\\p0042_fig001.png",
+      "caption": "KOSHA GUIDE",
+      "ocr_text": "번개 , 눈 ,\nm)\n1m",
+      "vision_description": "이미지는 KS B ISO 12480-1:1997 산업안전보건 기준 중의 일부로, 이동식 고소작업기 (플랫폼) 의 '설계와 설치 규칙'(C.4 섹션) 에 대한 상세 안전 규정을 나열하고 있습니다. 문서는 플랫폼 설계자의 자격 요건, 최대 탑승 인원 제한 (3명), 최소 안전계수 (5), 보호대 및 레일 요구사항, 출입문 구조, 그리고 용접 및 재료 관련 구체적인 기술적 규정을 a) 부터 o) 항목까지 포함하여 열거합니다.",
+      "bbox": [
+        48.64,
+        111.04,
+        515.84,
+        785.12
+      ],
+      "width": 935,
+      "height": 1349,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.33605529675297485,
+      "vision_error": null,
+      "search_text": "Caption: KOSHA GUIDE\n\nOCR:\n번개 , 눈 ,\nm)\n1m\n\nDescription: 이미지는 KS B ISO 12480-1:1997 산업안전보건 기준 중의 일부로, 이동식 고소작업기 (플랫폼) 의 '설계와 설치 규칙'(C.4 섹션) 에 대한 상세 안전 규정을 나열하고 있습니다. 문서는 플랫폼 설계자의 자격 요건, 최대 탑승 인원 제한 (3명), 최소 안전계수 (5), 보호대 및 레일 요구사항, 출입문 구조, 그리고 용접 및 재료 관련 구체적인 기술적 규정을 a) 부터 o) 항목까지 포함하여 열거합니다."
+    }
+  ]
+}

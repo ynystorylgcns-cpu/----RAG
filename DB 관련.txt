@@ -1,0 +1,116 @@
+DB 관련
+
+dataset_type = accident_case
+is_evaluation = false/true
+evaluation_set_id = eval_v1
+
+---
+--평상시 서비스 검색:
+--평가셋도 포함하여 전체 데이터 검색
+WHERE is_active = true
+
+---
+
+--성능 평가를 실행할 때만:
+WHERE is_active = true
+  AND is_evaluation = false
+
+---
+
+PDF 73건은 별도 문서 유형으로 추가
+source_type
+----------------
+ACCIDENT_CASE
+KOSHA_GUIDE
+MANUAL
+REGULATION
+OTHER
+
+PCT거더 교량공사 안전보건작업지침
+→ source_type = KOSHA_GUIDE
+
+가설계단 설치 및 사용 안전보건작업지침
+→ source_type = KOSHA_GUIDE
+
+---
+
+PDF는 페이지/문단 단위로 청킹
+
+document_id
+source_type
+filename
+page_number
+section_title
+chunk_index
+chunk_text
+embedding
+file_hash
+chunk_hash
+is_evaluation
+is_active
+created_at
+updated_at
+
+---
+
+PDF를 추가할 때 전체 재색인하면 안됨
+기존 CSV 데이터
+    그대로 유지
+
+PDF 73개
+    ↓
+신규 파일만 확인
+    ↓
+텍스트 추출
+    ↓
+청킹
+    ↓
+임베딩
+    ↓
+pgvector INSERT
+
+---
+
+PDF가 수정된 경우도 처리
+동일 filename + 동일 hash
+→ 아무 작업 안 함
+
+동일 filename + hash 변경
+→ 기존 문서 version 비활성화
+→ 변경 PDF 새로 청킹/임베딩
+→ 새 version 등록
+
+새 filename
+→ 신규 등록
+
+수정 때문에 문서 버전 두는게 좋음
+document_version = 1
+is_active = true
+
+---
+
+평가 데이터 구조도 분리
+evaluation_case
+- evaluation_id
+- accident_case_id
+- question
+- expected_similar_accident_ids
+- expected_technical_document_ids
+- expected_technical_chunk_ids
+- reference_countermeasure
+
+---
+
+SELECT
+    collections_id,
+    collection_code,
+    collection_name,
+    description
+FROM rag.collections;
+
+collections_id | collection_code | collection_name
+--------------------------------------------------
+1              | PRIMARY         | 사고사례
+2              | REFERENCE       | 기술지원규정·KOSHA GUIDE
+
+

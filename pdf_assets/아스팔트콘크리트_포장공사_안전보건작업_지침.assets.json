@@ -1,0 +1,85 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "아스팔트콘크리트 포장공사 안전보건작업 지침.pdf",
+  "relative_path": "기술지원규정가이드/아스팔트콘크리트 포장공사 안전보건작업 지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "283670c48b7818ab388b43b449b3e708fd0b40dc04c760bdd509705abef92cda",
+  "image_count": 3,
+  "images": [
+    {
+      "source_pdf": "아스팔트콘크리트 포장공사 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 7,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\아스팔트콘크리트_포장공사_안전보건작업_지침\\p0007_fig001.png",
+      "caption": "<그림1> 표준유도신호방법",
+      "ocr_text": "",
+      "vision_description": "이미지는 어깨 관절 운동이나 재활 운동을 설명하는 네 개의 단계별 도표입니다. 그림 속 인물은 헬멧과 십자가 문양이 있는 의복을 착용하고 있습니다.\n\n*   **첫 번째 (위):** 측면 모습으로 팔을 들어 올린 후 화살표를 통해 어깨 회전 동작을 보여줍니다.\n*   **두 번째:** 앞면 모습으로 한쪽 팔을 완전히 곧게 들어 올리고 주먹을 쥔 상태를 보여줍니다.\n*   **세 번째:** 양팔을 어깨 높이(T자)로 벌린 뒤, 점선 화살표로 움직임 (후방 운동 등) 을 표시합니다.\n*   **네 번째 (아래):** 양팔을 머리 위로 완전히 뻗어 올린 후 회전 동작 (화살표) 을 보여줍니다.",
+      "bbox": [
+        184.72,
+        174.4,
+        285.68,
+        604.88
+      ],
+      "width": 203,
+      "height": 862,
+      "mime_type": "image/png",
+      "merged_source_image_count": 4,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: <그림1> 표준유도신호방법\n\nDescription: 이미지는 어깨 관절 운동이나 재활 운동을 설명하는 네 개의 단계별 도표입니다. 그림 속 인물은 헬멧과 십자가 문양이 있는 의복을 착용하고 있습니다.\n\n*   **첫 번째 (위):** 측면 모습으로 팔을 들어 올린 후 화살표를 통해 어깨 회전 동작을 보여줍니다.\n*   **두 번째:** 앞면 모습으로 한쪽 팔을 완전히 곧게 들어 올리고 주먹을 쥔 상태를 보여줍니다.\n*   **세 번째:** 양팔을 어깨 높이(T자)로 벌린 뒤, 점선 화살표로 움직임 (후방 운동 등) 을 표시합니다.\n*   **네 번째 (아래):** 양팔을 머리 위로 완전히 뻗어 올린 후 회전 동작 (화살표) 을 보여줍니다."
+    },
+    {
+      "source_pdf": "아스팔트콘크리트 포장공사 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 7,
+      "asset_type": "image",
+      "image_index": 2,
+      "image_path": "pdf_images\\아스팔트콘크리트_포장공사_안전보건작업_지침\\p0007_fig002.png",
+      "caption": "신호 수신호",
+      "ocr_text": "",
+      "vision_description": "이미지 위와 아래로 나뉜 두 개의 일러스트로, 헬멧을 쓰고 앞가슴에 십자가 문양이 있는 인물의 상반신 움직임을 보여줍니다. 위쪽 그림은 양팔을 머리 위로 뻗은 자세이며 팔 주변에 곡선 화살표가 그려져 있고, 아래쪽 그림은 한쪽 팔만 어깨 높이로 들어 올린 동작과 해당 이동 궤적을 나타내는 화살표가 포함되어 있습니다.",
+      "bbox": [
+        418.0,
+        174.4,
+        504.8,
+        382.88
+      ],
+      "width": 174,
+      "height": 418,
+      "mime_type": "image/png",
+      "merged_source_image_count": 2,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: 신호 수신호\n\nDescription: 이미지 위와 아래로 나뉜 두 개의 일러스트로, 헬멧을 쓰고 앞가슴에 십자가 문양이 있는 인물의 상반신 움직임을 보여줍니다. 위쪽 그림은 양팔을 머리 위로 뻗은 자세이며 팔 주변에 곡선 화살표가 그려져 있고, 아래쪽 그림은 한쪽 팔만 어깨 높이로 들어 올린 동작과 해당 이동 궤적을 나타내는 화살표가 포함되어 있습니다."
+    },
+    {
+      "source_pdf": "아스팔트콘크리트 포장공사 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 7,
+      "asset_type": "image",
+      "image_index": 3,
+      "image_path": "pdf_images\\아스팔트콘크리트_포장공사_안전보건작업_지침\\p0007_fig003.png",
+      "caption": "",
+      "ocr_text": "",
+      "vision_description": "헬멧을 쓰고 가슴에 십자가 문양이 있는 옷을 입은 인물이 오른손을 위로 들어 올리고 있는 모습입니다. 손과 머리 주위를 감싸는 화살표가 있어 손의 움직임을 나타냅니다.",
+      "bbox": [
+        418.0,
+        396.4,
+        504.8,
+        497.36
+      ],
+      "width": 174,
+      "height": 203,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Description: 헬멧을 쓰고 가슴에 십자가 문양이 있는 옷을 입은 인물이 오른손을 위로 들어 올리고 있는 모습입니다. 손과 머리 주위를 감싸는 화살표가 있어 손의 움직임을 나타냅니다."
+    }
+  ]
+}

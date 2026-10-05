@@ -1,0 +1,60 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "밀폐공간의 방수공사 안전보건작업 지침.pdf",
+  "relative_path": "기술지원규정가이드/밀폐공간의 방수공사 안전보건작업 지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "c992f67872e9493e1f42c48ba5962ca875cd8858ff5f6ec87df02d3530e6477a",
+  "image_count": 2,
+  "images": [
+    {
+      "source_pdf": "밀폐공간의 방수공사 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 4,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\밀폐공간의_방수공사_안전보건작업_지침\\p0004_fig001.png",
+      "caption": "<그림1> 밀폐공간에서방수작업절차",
+      "ocr_text": "사전조사\n작업안전계획수립\n안전보건작업히가서 작성\n검토 및 승인\n안전교육\n방수작업실시\n작업중 안전조치사항\n시건조치",
+      "vision_description": "",
+      "bbox": [
+        127.12,
+        354.16,
+        468.32,
+        736.4
+      ],
+      "width": 683,
+      "height": 765,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.7181750926850392,
+      "vision_error": null,
+      "search_text": "Caption: <그림1> 밀폐공간에서방수작업절차\n\nOCR:\n사전조사\n작업안전계획수립\n안전보건작업히가서 작성\n검토 및 승인\n안전교육\n방수작업실시\n작업중 안전조치사항\n시건조치"
+    },
+    {
+      "source_pdf": "밀폐공간의 방수공사 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 5,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\밀폐공간의_방수공사_안전보건작업_지침\\p0005_fig001.png",
+      "caption": "(라) 방수재료의구성성분과물성및위험특성등물질안전보건자료(MSDS)를",
+      "ocr_text": "",
+      "vision_description": "이 이미지는 좌측에 원기둥과 우측에 상면에 원형 구멍이 있는 직육면체를 보여주는 기하학적 도표입니다.\n\n*   **좌측 (원기둥):** 위쪽 면, 옆면 (중간 및 모서리), 아래쪽 면을 지나는 곡선으로 구성되며, 1 번부터 9 번까지 총 9 개의 라벨 번호가 원통의 다양한 위치 (중앙, 좌우, 위아래) 에 부착되어 있습니다.\n*   **우측 (직육면체):** 상자 형태의 도형으로, 상면 중앙에 원형의 구멍 (1 번) 이 있고 그 아래로 수직선이 내려오며 (2 번, 3 번), 점선으로 숨겨진 모서리들이 그려져 있습니다.",
+      "bbox": [
+        287.92,
+        315.28,
+        574.64,
+        469.52
+      ],
+      "width": 575,
+      "height": 310,
+      "mime_type": "image/png",
+      "merged_source_image_count": 2,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: (라) 방수재료의구성성분과물성및위험특성등물질안전보건자료(MSDS)를\n\nDescription: 이 이미지는 좌측에 원기둥과 우측에 상면에 원형 구멍이 있는 직육면체를 보여주는 기하학적 도표입니다.\n\n*   **좌측 (원기둥):** 위쪽 면, 옆면 (중간 및 모서리), 아래쪽 면을 지나는 곡선으로 구성되며, 1 번부터 9 번까지 총 9 개의 라벨 번호가 원통의 다양한 위치 (중앙, 좌우, 위아래) 에 부착되어 있습니다.\n*   **우측 (직육면체):** 상자 형태의 도형으로, 상면 중앙에 원형의 구멍 (1 번) 이 있고 그 아래로 수직선이 내려오며 (2 번, 3 번), 점선으로 숨겨진 모서리들이 그려져 있습니다."
+    }
+  ]
+}

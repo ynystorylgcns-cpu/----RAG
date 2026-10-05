@@ -1,0 +1,85 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "굴착면 안전기울기 기준에 관한 기술지원규정.pdf",
+  "relative_path": "기술지원규정가이드/굴착면 안전기울기 기준에 관한 기술지원규정.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "d415df5d10adb10bf2aef6a2f0e62f00ce8704f960f4376bb561c64defd79358",
+  "image_count": 3,
+  "images": [
+    {
+      "source_pdf": "굴착면 안전기울기 기준에 관한 기술지원규정.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 12,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\굴착면_안전기울기_기준에_관한_기술지원규정\\p0012_fig001.png",
+      "caption": "1. 굴착면의 기울기는 굴착면의 높이에 대한 수평거리의 비율을 말한다.",
+      "ocr_text": "1.0\n0.5\n1.0\n경암",
+      "vision_description": "",
+      "bbox": [
+        341.85,
+        297.66,
+        536.44,
+        487.71
+      ],
+      "width": 390,
+      "height": 381,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.8495828869909666,
+      "vision_error": null,
+      "search_text": "Caption: 1. 굴착면의 기울기는 굴착면의 높이에 대한 수평거리의 비율을 말한다.\n\nOCR:\n1.0\n0.5\n1.0\n경암"
+    },
+    {
+      "source_pdf": "굴착면 안전기울기 기준에 관한 기술지원규정.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 15,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\굴착면_안전기울기_기준에_관한_기술지원규정\\p0015_fig001.png",
+      "caption": "부표-1 흙의 공학적 분류 방법",
+      "ocr_text": "흙의 종류\n제2문자\n흙의 상태\n자간(Gravel)\n모래(Sand)\nM",
+      "vision_description": "",
+      "bbox": [
+        115.29,
+        126.97,
+        496.5,
+        249.18
+      ],
+      "width": 763,
+      "height": 246,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.5215349343616915,
+      "vision_error": null,
+      "search_text": "Caption: 부표-1 흙의 공학적 분류 방법\n\nOCR:\n흙의 종류\n제2문자\n흙의 상태\n자간(Gravel)\n모래(Sand)\nM"
+    },
+    {
+      "source_pdf": "굴착면 안전기울기 기준에 관한 기술지원규정.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 15,
+      "asset_type": "image",
+      "image_index": 2,
+      "image_path": "pdf_images\\굴착면_안전기울기_기준에_관한_기술지원규정\\p0015_fig002.png",
+      "caption": "11",
+      "ocr_text": "주요 구분\n대표명\n기호\nGW\n깨끗한\n4.75 mm\n자간\n입도\nGP\n자갈의\n래 흔화도\n50 %\n정하다.\nGM\n소성도에서\n선올\n자간\n이하)의\n75 um\nGC\n또는 A선\n따라  나음과\n50 %\n6 이상\n미만\nSW\nGW GP\n모래\n깨끗한\n인 모래\nSW SP\nC=\n4,75 mm\n12 % 초과\n모두 만족해야 팀.\n통과한\nSM SC\nSP\n인 모래\n5 - 12 %\n분이\n경계 신에서\n50 %\nSM\n암유한\n모래\n지도질\nSC\n위이\n로 분유하다\nML\nLL < 50\nCL\nOL\n50 %\n운모\n이상\nCLML\nMH\n사 또는 실드\n반성\n100\n무기진\nLL(%)",
+      "vision_description": "",
+      "bbox": [
+        114.45,
+        263.14,
+        497.34,
+        780.91
+      ],
+      "width": 767,
+      "height": 1036,
+      "mime_type": "image/png",
+      "merged_source_image_count": 2,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.552482505265219,
+      "vision_error": null,
+      "search_text": "Caption: 11\n\nOCR:\n주요 구분\n대표명\n기호\nGW\n깨끗한\n4.75 mm\n자간\n입도\nGP\n자갈의\n래 흔화도\n50 %\n정하다.\nGM\n소성도에서\n선올\n자간\n이하)의\n75 um\nGC\n또는 A선\n따라  나음과\n50 %\n6 이상\n미만\nSW\nGW GP\n모래\n깨끗한\n인 모래\nSW SP\nC=\n4,75 mm\n12 % 초과\n모두 만족해야 팀.\n통과한\nSM SC\nSP\n인 모래\n5 - 12 %\n분이\n경계 신에서\n50 %\nSM\n암유한\n모래\n지도질\nSC\n위이\n로 분유하다\nML\nLL < 50\nCL\nOL\n50 %\n운모\n이상\nCLML\nMH\n사 또는 실드\n반성\n100\n무기진\nLL(%)"
+    }
+  ]
+}

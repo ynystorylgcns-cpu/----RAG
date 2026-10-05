@@ -1,0 +1,110 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "가설계단 설치 및 사용 안전보건작업 지침.pdf",
+  "relative_path": "기술지원규정가이드/가설계단 설치 및 사용 안전보건작업 지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "40823c5a831b9103081856a9e2f10d314202bfc5ecf74896ef9dac76eeb8c42e",
+  "image_count": 4,
+  "images": [
+    {
+      "source_pdf": "가설계단 설치 및 사용 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 4,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\가설계단_설치_및_사용_안전보건작업_지침\\p0004_fig001.png",
+      "caption": "<그림. 1>가설계단의구조",
+      "ocr_text": "",
+      "vision_description": "이 도표는 경사진 평면 위에 배치된 직사각형 블록들의 층상 구조를 보여주는 기술 다이어그램입니다. 주요 기하학적 변수로는 경사 길이 (L, SL), 전체 높이 (H), 개별 블록의 너비/간격 (P, g), 두께/오프셋 (r), 그리고 경사 각도 (a) 가 표시되어 있습니다. 왼쪽 상단에는 별도의 블록 단면도가 포함되어 있으며, 이는 지반 역학이나 경사면 안정성 분석을 위한 모델링 도면으로 보입니다.",
+      "bbox": [
+        132.64,
+        493.84,
+        364.16,
+        715.76
+      ],
+      "width": 464,
+      "height": 445,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: <그림. 1>가설계단의구조\n\nDescription: 이 도표는 경사진 평면 위에 배치된 직사각형 블록들의 층상 구조를 보여주는 기술 다이어그램입니다. 주요 기하학적 변수로는 경사 길이 (L, SL), 전체 높이 (H), 개별 블록의 너비/간격 (P, g), 두께/오프셋 (r), 그리고 경사 각도 (a) 가 표시되어 있습니다. 왼쪽 상단에는 별도의 블록 단면도가 포함되어 있으며, 이는 지반 역학이나 경사면 안정성 분석을 위한 모델링 도면으로 보입니다."
+    },
+    {
+      "source_pdf": "가설계단 설치 및 사용 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 8,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\가설계단_설치_및_사용_안전보건작업_지침\\p0008_fig001.png",
+      "caption": "7. 기성품가설계단의응용",
+      "ocr_text": "",
+      "vision_description": "이 이미지는 <그림 2>로 제목을 달고 '안전난간'에 대한 도면을 보여줍니다. 계단과 손잡이 설치 상태를 나타내는 단면도입니다.\n\n**주요 보이는 사실 및 항목:**\n*   **구조물:** 우측으로 내려가는 계단과 설치된 철재 손잡이 (방어벽) 가 보입니다.\n*   **지오크 (Label):**\n    *   **E, F:** 좌측에 세로로 적힌 높이 관련 치수 표시입니다.\n    *   **H':** 우측 하단에 위치한 손잡이의 높이를 나타내는 치수선입니다.\n    *   **W:** 계단 한 마리의 폭을 가리키는 지시선 (화살표) 과 글자입니다.\n    *   **B:** 손잡이 부근에 두 개가 표기되어 있습니다.\n*   **텍스트:** 오른쪽 하단 계단 말단에 '바닥면'이라는 한글 표기가 있습니다.",
+      "bbox": [
+        120.16,
+        248.8,
+        400.88,
+        426.08
+      ],
+      "width": 562,
+      "height": 356,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.4086433677760811,
+      "vision_error": null,
+      "search_text": "Caption: 7. 기성품가설계단의응용\n\nDescription: 이 이미지는 <그림 2>로 제목을 달고 '안전난간'에 대한 도면을 보여줍니다. 계단과 손잡이 설치 상태를 나타내는 단면도입니다.\n\n**주요 보이는 사실 및 항목:**\n*   **구조물:** 우측으로 내려가는 계단과 설치된 철재 손잡이 (방어벽) 가 보입니다.\n*   **지오크 (Label):**\n    *   **E, F:** 좌측에 세로로 적힌 높이 관련 치수 표시입니다.\n    *   **H':** 우측 하단에 위치한 손잡이의 높이를 나타내는 치수선입니다.\n    *   **W:** 계단 한 마리의 폭을 가리키는 지시선 (화살표) 과 글자입니다.\n    *   **B:** 손잡이 부근에 두 개가 표기되어 있습니다.\n*   **텍스트:** 오른쪽 하단 계단 말단에 '바닥면'이라는 한글 표기가 있습니다."
+    },
+    {
+      "source_pdf": "가설계단 설치 및 사용 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 9,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\가설계단_설치_및_사용_안전보건작업_지침\\p0009_fig001.png",
+      "caption": "8. 가설계단설치작업중안전준수사항",
+      "ocr_text": "승감각노 45도\n500 * 2515\n23ct 이상\n(26,OKg)\n23cm이내",
+      "vision_description": "",
+      "bbox": [
+        88.0,
+        402.64,
+        529.04,
+        561.68
+      ],
+      "width": 883,
+      "height": 319,
+      "mime_type": "image/png",
+      "merged_source_image_count": 3,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.6166474287800701,
+      "vision_error": null,
+      "search_text": "Caption: 8. 가설계단설치작업중안전준수사항\n\nOCR:\n승감각노 45도\n500 * 2515\n23ct 이상\n(26,OKg)\n23cm이내"
+    },
+    {
+      "source_pdf": "가설계단 설치 및 사용 안전보건작업 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 11,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\가설계단_설치_및_사용_안전보건작업_지침\\p0011_fig001.png",
+      "caption": "2. 기계· 탱크· 설비의내·외부계단이나마루· 난간· 피트에연결된고정",
+      "ocr_text": "",
+      "vision_description": "경사진 평면 위와 바닥면에 배치된 물체들의 기하학적 관계와 설계 제한 조건을 나타낸 도면입니다. 주요 구성 요소와 치수는 다음과 같습니다:\n\n*   **구조물**: 경사진 평면 위로 블록(번호 1)이 놓여 있으며, 상단 벽면 끝에는 다른 부품(번호 2)이 위치합니다. 왼쪽 하단에는 삼각형 모양의 지지대 위에 물체가 배치되어 있습니다.\n*   **경사 각도 (α)**: $30^\\circ \\le \\alpha \\le 55^\\circ$ 범위를 가집니다.\n*   **수직 치수 (u)**: $115 \\le u \\le 225$ 의 범위를 가집니다.\n*   **수평 거리 및 파라미터**: 수평 거리는 $s$, $g$로 표시되며, 다른 위치 변수는 $-25 \\le a \\le 55$로 정의됩니다.",
+      "bbox": [
+        323.44,
+        157.12,
+        519.44,
+        379.04
+      ],
+      "width": 393,
+      "height": 445,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.10045443074135335,
+      "vision_error": null,
+      "search_text": "Caption: 2. 기계· 탱크· 설비의내·외부계단이나마루· 난간· 피트에연결된고정\n\nDescription: 경사진 평면 위와 바닥면에 배치된 물체들의 기하학적 관계와 설계 제한 조건을 나타낸 도면입니다. 주요 구성 요소와 치수는 다음과 같습니다:\n\n*   **구조물**: 경사진 평면 위로 블록(번호 1)이 놓여 있으며, 상단 벽면 끝에는 다른 부품(번호 2)이 위치합니다. 왼쪽 하단에는 삼각형 모양의 지지대 위에 물체가 배치되어 있습니다.\n*   **경사 각도 (α)**: $30^\\circ \\le \\alpha \\le 55^\\circ$ 범위를 가집니다.\n*   **수직 치수 (u)**: $115 \\le u \\le 225$ 의 범위를 가집니다.\n*   **수평 거리 및 파라미터**: 수평 거리는 $s$, $g$로 표시되며, 다른 위치 변수는 $-25 \\le a \\le 55$로 정의됩니다."
+    }
+  ]
+}

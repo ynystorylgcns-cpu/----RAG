@@ -1,0 +1,54 @@
+AI : “AI가 지금 무엇을 하는지”, “왜 기다리는지”, “무엇을 실행하려는지”
+개발자는 설계를 바탕으로 Agent State + Prompt + Tool + RAG + 코드로 실제 동작하게 만드는 역할
+
+디자이너 산출물
+Agent Flow
+Conversation Flow
+Agent 상태 디자인
+Approval UX
+Tool 실행 UX
+RAG 근거 표시 방식
+오류 / 실패 UX
+Agent Personality
+Loading / Thinking 상태
+결과 Presentation
+
+개발자 산출물
+Agent Architecture
+State Machine
+Prompt
+Tool Schema
+API
+RAG Pipeline
+Memory
+Database
+Guardrail
+Logging
+Evaluation
+Streaming
+
+개발 진생시 추천 방향-----------
+1주차
+Use Case
+Agent 역할
+업무 Flow
+대표 사용자 질문 20~50개
+
+2주차
+Agent Flow
+Conversation Flow
+Approval Flow
+Error Flow
+
+3주차
+Prototype
+Prompt
+Tool
+RAG
+
+4주차
+통합
+평가
+UX Test
+Agent Evaluation
+------------------------------------

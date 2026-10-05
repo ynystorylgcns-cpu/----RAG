@@ -1,0 +1,35 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "가설구조물의 설계변경 요청 내용, 절차 등에 관한 작성지침.pdf",
+  "relative_path": "기술지원규정가이드/가설구조물의 설계변경 요청 내용, 절차 등에 관한 작성지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "267d4d300e3b8d947bd5704eef4ac1e6c031e1f04f5c9c3bc4668635f5961278",
+  "image_count": 1,
+  "images": [
+    {
+      "source_pdf": "가설구조물의 설계변경 요청 내용, 절차 등에 관한 작성지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 5,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\가설구조물의_설계변경_요청_내용_절차_등에_관한_작성지침\\p0005_fig001.png",
+      "caption": "- 3 -",
+      "ocr_text": "설 계 변 경\n대 상\n높이 31m 이상인 비계\n터널지보공\n설 계 변 경  근거\n~입찰공고문\n~입찰과정의 질의회시 내용\n구조적 불안전\n대형사고 위험 노출 무려\n~시공이 불가능한 경무\n유해위점방지계획서 심사 대상\n'한국산업안전보건공단\n건축구조기술사\n~토목구조기술사\n서류\n(3일이내\n승인\n불승인\n계 약 금 액 의 조 점\n사 유\n변경 전후 상세도\n안전한 경무\n~거짓 부당하거 요청한 경무\n~기술적으로 적용이 불가능한 경무\n서류보 관\n최소한 공사 준공일 까지 보관",
+      "vision_description": "",
+      "bbox": [
+        142.0,
+        178.24,
+        465.44,
+        751.76
+      ],
+      "width": 647,
+      "height": 1148,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.6722701124324015,
+      "vision_error": null,
+      "search_text": "Caption: - 3 -\n\nOCR:\n설 계 변 경\n대 상\n높이 31m 이상인 비계\n터널지보공\n설 계 변 경  근거\n~입찰공고문\n~입찰과정의 질의회시 내용\n구조적 불안전\n대형사고 위험 노출 무려\n~시공이 불가능한 경무\n유해위점방지계획서 심사 대상\n'한국산업안전보건공단\n건축구조기술사\n~토목구조기술사\n서류\n(3일이내\n승인\n불승인\n계 약 금 액 의 조 점\n사 유\n변경 전후 상세도\n안전한 경무\n~거짓 부당하거 요청한 경무\n~기술적으로 적용이 불가능한 경무\n서류보 관\n최소한 공사 준공일 까지 보관"
+    }
+  ]
+}

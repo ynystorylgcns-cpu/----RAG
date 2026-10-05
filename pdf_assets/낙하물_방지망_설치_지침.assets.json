@@ -1,0 +1,60 @@
+{
+  "format_version": "1.0",
+  "source_pdf": "낙하물 방지망 설치 지침.pdf",
+  "relative_path": "기술지원규정가이드/낙하물 방지망 설치 지침.pdf",
+  "collection_code": "REFERENCE",
+  "file_hash": "2b45a1b51f40283e9c34dd5b1bc45903c20554fa3a4fd4394b20d531c919d132",
+  "image_count": 2,
+  "images": [
+    {
+      "source_pdf": "낙하물 방지망 설치 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 4,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\낙하물_방지망_설치_지침\\p0004_fig001.png",
+      "caption": "①무매듭방망 ②매듭방망 ③라셀방망",
+      "ocr_text": "",
+      "vision_description": "세 가지 기술 도면이 나란히 배치되어 있으며, 구조물의 연결부 (joint) 에 사용되는 철근 배치를 보여줍니다. 왼쪽 그림은 직사각형 프레임 구조의 결합부를 보여주며, 가운데 그림은 대각선 교차 패턴을, 오른쪽 그림은 모서리나 T 자 형태의 각진 교차 결합부를 나타냅니다. 모든 도면에는 철근 (점선 원) 이 있고 차원 'a' 와 'b' 가 표기되어 있습니다.",
+      "bbox": [
+        184.24,
+        536.56,
+        411.2,
+        624.56
+      ],
+      "width": 455,
+      "height": 177,
+      "mime_type": "image/png",
+      "merged_source_image_count": 1,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": null,
+      "vision_error": null,
+      "search_text": "Caption: ①무매듭방망 ②매듭방망 ③라셀방망\n\nDescription: 세 가지 기술 도면이 나란히 배치되어 있으며, 구조물의 연결부 (joint) 에 사용되는 철근 배치를 보여줍니다. 왼쪽 그림은 직사각형 프레임 구조의 결합부를 보여주며, 가운데 그림은 대각선 교차 패턴을, 오른쪽 그림은 모서리나 T 자 형태의 각진 교차 결합부를 나타냅니다. 모든 도면에는 철근 (점선 원) 이 있고 차원 'a' 와 'b' 가 표기되어 있습니다."
+    },
+    {
+      "source_pdf": "낙하물 방지망 설치 지침.pdf",
+      "collection_code": "REFERENCE",
+      "page_number": 6,
+      "asset_type": "image",
+      "image_index": 1,
+      "image_path": "pdf_images\\낙하물_방지망_설치_지침\\p0006_fig001.png",
+      "caption": "<그림2> 낙하물방지망설치(예시)",
+      "ocr_text": "#\n사용시\n벽이음",
+      "vision_description": "빌딩 외벽을 대상으로 한 창문 세척 작업 시 로프 시스템의 설치 및 각도 설정을 보여주는 도면입니다. 벽면의 '벽이음' 부위에 '(고정·해체)' 포인트가 표시되어 있으며, 이를 통해 '로프'가 연결됩니다. 그림 중 하나에서는 로프가 벽면에 고정되어 사용 상태 ('사용시') 를 나타내며, 이때의 각도는 20°~30° 이내여야 함을, 다른 곳에서는 2m 이상이라는 수평 거리를 표시하고 있습니다.",
+      "bbox": [
+        162.4,
+        118.96,
+        433.04,
+        452.24
+      ],
+      "width": 543,
+      "height": 668,
+      "mime_type": "image/png",
+      "merged_source_image_count": 2,
+      "image_extraction_mode": "page_figure_crop",
+      "image_ocr_error": 0.6931789883403245,
+      "vision_error": null,
+      "search_text": "Caption: <그림2> 낙하물방지망설치(예시)\n\nOCR:\n#\n사용시\n벽이음\n\nDescription: 빌딩 외벽을 대상으로 한 창문 세척 작업 시 로프 시스템의 설치 및 각도 설정을 보여주는 도면입니다. 벽면의 '벽이음' 부위에 '(고정·해체)' 포인트가 표시되어 있으며, 이를 통해 '로프'가 연결됩니다. 그림 중 하나에서는 로프가 벽면에 고정되어 사용 상태 ('사용시') 를 나타내며, 이때의 각도는 20°~30° 이내여야 함을, 다른 곳에서는 2m 이상이라는 수평 거리를 표시하고 있습니다."
+    }
+  ]
+}
